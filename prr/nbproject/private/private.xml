@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/dal/OrderDetailDBcontext.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/controller/DeleteCartController.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/web/cart.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/controller/CartController.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/dal/CategoryDBContext.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/model/Account.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/web/ManagerProduct.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/dal/ShippingDBcontext.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/web/login.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/controller/LoginController.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/controller/CheckOutController.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/controller/LoadCategoryController.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/dal/DBContext.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/controller/BaseRequiredAuthenController.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/web/home.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/controller/LogoutControl.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/controller/forgetPasswordController.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/controller/AddToCartController.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/controller/LoadController.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/controller/CategoryController.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/controller/AddProductController.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/dal/ProductDBContext.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/controller/EditAccountController.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/controller/AddCategoryController.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/controller/DeleteOrderDetailController.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/prr/src/java/controller/HomeController.java</file>
+        </group>
+    </open-files>
+</project-private>
